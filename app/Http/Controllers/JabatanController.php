@@ -8,6 +8,6 @@ class JabatanController extends Controller
 {
     public function index()
     {
-        return view('gaji');
+        return view('jabatan');
     }
 }
